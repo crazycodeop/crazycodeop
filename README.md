@@ -17,3 +17,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+### :man_technologist: About Me :
+🌍  I'm based in Mumbai
+
+✉️  You can contact me at roshany.ir.ry@gmail.com
+
+🧠  I'm learning NextJS and Flutter
+
+🤝  I'm open to collaborating on interesting projects involving React, NextJS and Flutter
