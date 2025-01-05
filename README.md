@@ -3,10 +3,13 @@
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/roshan-yadav-5b9029142/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/rxshanyadav/">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://leetcode.com/u/Jodd_coder/">
+    <img src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logoColor=white" alt="Leetcode Badge"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/jodd_coder/">
+    <img src="https://img.shields.io/badge/GeeksForGeeks-green?style=for-the-badge&logoColor=white" alt="Leetcode Badge"/>
   </a>
 </div>
 <div id="header" align="center">
